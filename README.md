@@ -1,39 +1,57 @@
-<div>
-  
-  <h1 align="center">
-    Oi Tudo bem? Eu sou  
-    <a href="https://www.linkedin.com/in/izianesantana/">Iziane</a>. 
-    Mas pode me chamar de Izzy 😃️.
-  </h1>
-  
-  <p align="center">
-    Sou engenheira biomédica e estudo para ser uma Cientista de Dados.
-  </p>
-  
+<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
+<br>
+<br> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&weight=600&size=35&pause=1000&color=8047F7&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Izzy;Biomedical+Engineering;Studying+to+be+a+Data+Scientist)](https://git.io/typing-svg)
+
+
+<div align="center"> 
+<a href="https://instagram.com/izisantana" target="_blank">
+<img align="center" height="64" width="64" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+</a>
+
+
+<a href="mailto:mizianesf@gmail.com">
+<img align="center"  height="54" width="54" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
+
+
+<a  href="https://www.linkedin.com/in/izisantan/" target=_blank>
+<img align="center"  height="54" width="54" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
+
 </div>
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/izisantana">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=izisantana&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izisantana&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=izisantana&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izisantana&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
-  <img align="center" alt="Spark" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-</div><br>
+<h2 align="left"> Studying at this moment: </h2>
 
-<div align="center">
-  <a href="https://www.instagram.com/izisantana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/izianesantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:izianesf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<div align="center"> 
+
+<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+
+<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg">
+
+<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
+
+<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+
+<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+
+<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+
+<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+
 </div>
+
 
 <div align="center">
 
@@ -41,6 +59,7 @@
   
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+<br>
+<br>
+
+<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
