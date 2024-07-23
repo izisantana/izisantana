@@ -36,24 +36,24 @@
 
 <div align="center"> 
 
-<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img align="center"  height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
-<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg">
+<img align="center"  height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg">
 
-<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
+<img align="center"  height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg">
 
-<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+<img align="center"  height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 
-<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+<img align="center"  height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 
-<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+<img align="center"  height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
 
-<img align="center"  height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+<img align="center"  height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
 
 </div>
 
 
-<div align="center">
+<div align="center">                      
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
